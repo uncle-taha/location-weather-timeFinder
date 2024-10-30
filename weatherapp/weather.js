@@ -2,7 +2,7 @@ const weatherForm = document.querySelector(".weatherForm");
 const cityInput = document.querySelector(".cityInput");
 const card = document.querySelector(".cards");
 const apiKey = "51f6af5f5db3bcabe944d3b34ca356a1";
-const googleMapsApi = "AIzaSyBTfgd7hdxnqzI50PwdFop8t4I6_V5svOk";
+const googleMapsApi = "YOUR API KEY";
 let previousCity = "";
 let clockInterval;
 
